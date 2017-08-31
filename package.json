@@ -17,6 +17,10 @@
     "type": "git",
     "url": "https://github.com/mzabriskie/axios.git"
   },
+  "files": [
+    "lib",
+    "dist"
+  ],
   "keywords": [
     "xhr",
     "http",
